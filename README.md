@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./banner-rosa.png" width="100%" alt="Banner rosa da Jesiane" />
+  <img src="1_uGNEqKwt70ItHthc50SxG0UQr9rI_UpI9-JHE-Owr97wCwDw5XDwrTD1xKM7lJdV4X4kg1ePCebFNrdM7hTkrmVkZLs7I5-Jd6S0GDL9jthkPS3Fm_OWreUQxmM6B8R7MnRpYe-kvB1z4xDEmX1iDcD8T_jNRxGBfThd_9uS9-kBBwsbgUcuBrjj4WT_IT.jfif" width="100%" alt="Banner rosa da Jesiane" />
 </div>
     
 <div align="center">
