@@ -35,14 +35,8 @@ Gosto de tecnologia, jogos, programação!
 
 </div>
 
-## 💻 Tecnologias e estudos
-
-
-## 💗 Tecnologias e estudos
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-FFC0D9?style=for-the-badge&logo=openjdk&logoColor=7A284E" />
 <img src="https://img.shields.io/badge/Python-E8C7FF?style=for-the-badge&logo=python&logoColor=5B3A80" />
 <img src="https://img.shields.io/badge/HTML5-FFD6E7?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-F8D7FF?style=for-the-badge&logo=css3&logoColor=663399" />
@@ -50,8 +44,6 @@ Gosto de tecnologia, jogos, programação!
 <img src="https://img.shields.io/badge/GitHub-F5DDF7?style=for-the-badge&logo=github&logoColor=56385C" />
 
 </div>
-
----
 
 ## 📊 Meu GitHub
 
