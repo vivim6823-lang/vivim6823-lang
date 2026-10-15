@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="./banner-rosa.png" width="100%" alt="Banner rosa da Jesiane" />
+</div>
+    
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D5,FFCBE6,F8D7FF&height=200&section=header&text=Oi,%20eu%20sou%20a%20Jesiane!&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Dev%20em%20formação&descAlignY=58&descSize=16" width="100%" />
 
