@@ -17,25 +17,36 @@
 </div>
 
 ---
+<div align="center">
 
-## 🌷 Sobre mim
+## ☁️ 💗 Sobre mim 💗 ☁️
 
-Olá! Sou a Jesiane, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+Oi! Eu sou a Jesiane, mas pode me chamar de Vivi! 🎀
 
-Estou construindo minha jornada na programação, aprendendo conceitos novos e desenvolvendo projetos para colocar meus conhecimentos em prática.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
+Gosto de tecnologia, jogos, programação e coisinhas fofas! 🩵
 
-- 📚 Atualmente estudando programação e desenvolvimento de software.
-- 🐍 Praticando Python e lógica de programação.
-- 🎯 Meu objetivo é evoluir como desenvolvedora e construir meu portfólio.
+🌷 Atualmente aprendendo Java, Python, HTML e CSS.
+💻 Desenvolvendo projetos para praticar meus conhecimentos.
+🎮 Gamer nas horas vagas.
+☁️ Sempre buscando aprender algo novo!
 
----
+✨ Seja bem-vindo(a) ao meu cantinho! ♡
+
+</div>
 
 ## 💻 Tecnologias e estudos
 
+
+## 💗 Tecnologias e estudos
+
 <div align="center">
 
+<img src="https://img.shields.io/badge/Java-FFC0D9?style=for-the-badge&logo=openjdk&logoColor=7A284E" />
 <img src="https://img.shields.io/badge/Python-E8C7FF?style=for-the-badge&logo=python&logoColor=5B3A80" />
-<img src="https://img.shields.io/badge/Git-FFD6E7?style=for-the-badge&logo=git&logoColor=9B315E" />
+<img src="https://img.shields.io/badge/HTML5-FFD6E7?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-F8D7FF?style=for-the-badge&logo=css3&logoColor=663399" />
+<img src="https://img.shields.io/badge/Git-FFC0D9?style=for-the-badge&logo=git&logoColor=9B315E" />
 <img src="https://img.shields.io/badge/GitHub-F5DDF7?style=for-the-badge&logo=github&logoColor=56385C" />
 
 </div>
