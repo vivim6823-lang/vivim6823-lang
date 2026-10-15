@@ -24,9 +24,9 @@
 Oi! Eu sou a Jesiane, mas pode me chamar de Vivi! 🎀
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
-Gosto de tecnologia, jogos, programação e coisinhas fofas! 🩵
+Gosto de tecnologia, jogos, programação!
 
-🌷 Atualmente aprendendo Java, Python, HTML e CSS.
+🌷 Atualmente aprendendo Python, HTML e CSS.
 💻 Desenvolvendo projetos para praticar meus conhecimentos.
 🎮 Gamer nas horas vagas.
 ☁️ Sempre buscando aprender algo novo!
